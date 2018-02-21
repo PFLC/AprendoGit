@@ -1,4 +1,4 @@
-# 
+# Amigos
 | Nombre | Edad | Color favorito |
 |--------|:----:|---------------:|
 | Ibarra |  16  |        Sangre  |
