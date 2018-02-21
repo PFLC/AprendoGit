@@ -1,5 +1,5 @@
-|Laboratorio|Encargado|Grupo|
-|-----------|:-------:|----:|
-|Informatica|  Rene   |  415|
-|Ingles     |  Nopal  |  407|
-|Biologia   | Socorro |  420|
+| Laboratorio 	| Encargado 	| Grupo 	| Salon 	|
+|-------------	|:---------:	|-------	|------:	|
+| Informatica 	| Rene 	| 415 	| 33 	|
+| Ingles 	| Nopal 	| 407 	| 22 	|
+| Biologia 	| Socorro 	| 420 	| 15 	|
