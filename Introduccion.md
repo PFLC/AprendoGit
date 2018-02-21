@@ -1,5 +1,6 @@
 ﻿# Hola Mundo!
 ## Intento de prueba
+![](https://www.zamzar.com/images/filetypes/jpg.png)
 
 | Nombre  | Proyecto  | Fecha | Encargado | Notas  |
 |---|---|---|---|---|
@@ -8,5 +9,5 @@
 | Orlando  | Colección de Pokemon  | 15/03/2015  |  Rene Solis   |  Falta patrocinio |
 | Catherine  |  Servicio de streaming de anime |  02/01/2001 | Rene Solis    |  Terminado y entregado |
 |  Fernanda |  Salon de belleza | 05/04/2010  |   Rene Solis  |  Falta planeación |
-|  Jhared |  Creación de un estudio de grabacion | 12/03/2011  | Rene Solis    |   |
+|  Jhared |  Creación de un estudio de grabacion | 12/03/2011  | Rene Solis    | Ninguna  |
 |  Antonio | Venta de abarrotes  | 18/07/2004  |  Rene Solis   |  Ninguna |
