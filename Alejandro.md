@@ -1,4 +1,4 @@
-| Laboratorio 	| Encargado 	| Grupo 	| Salon 	|
+| **Laboratorio** 	| **Encargado** 	| **Grupo**| **Salon** 	|
 |-------------	|:---------:	|-------	|------:	|
 | Informatica 	| Rene 	| 415 	| 33 	|
 | Ingles 	| Nopal 	| 407 	| 22 	|
