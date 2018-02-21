@@ -5,6 +5,7 @@
 
 
 **Compañeros de clase**
+
 | Nombre    | Edad | Sexo |
 |-----------|------|------|
 | Chalio    | 17   | M    |
