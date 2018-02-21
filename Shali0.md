@@ -1,3 +1,9 @@
+#Equipo
+#Salon
+#410  
+#edad
+#sexo
+
 **compañeros de clase**
 
 410
